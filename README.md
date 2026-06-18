@@ -40,7 +40,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
+- And more..
 
 ***
 
@@ -63,7 +63,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 ***
 
-## Company’s back ground
+## Company’s background
 
 - AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
